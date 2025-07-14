@@ -26,6 +26,7 @@
 ### 1. Загрузка файлов
 ```bash
 # Скачайте архив с сайта или клонируйте репозиторийназва
+git clone https://github.com/Feritori/RustForum-for-LoiMerser.git
 cd rustforum
 ```
 
